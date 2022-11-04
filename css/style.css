@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+#navbar{
+    display: flex;
+    border:solid 2px; 
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+#sinput{
+    caret-color: red;
+}
+
+.navlinks{
+    text-decoration: none;
+    color: brown;
+    font-weight: bold;
+}
+
+#searchbn{
+    color: white; 
+    background-color: red;
+}
